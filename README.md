@@ -1,6 +1,6 @@
 Tutorials
 
-~Flink Tutorial~
+Flink Tutorial
 
 - [ ] filter out any name containing an `e`.
 - [ ] add two fields to the dto:
@@ -19,7 +19,7 @@ Tutorials
 - [ ] - send any price that is divisible by 2 to a different stream via side output.
 - [ ] - on the side output stream, subtract 30 from the price, then print any events with a price > 0.
 
-~Mapstruct tutorial~
+Mapstruct tutorial
 
 - [ ] add/implement mapstruct to the sample_flink_program project.
 - [ ] create a new class (in a new file) called ExampleDto with fields String "name", String "coolerNumber", Integer "soldPrice"
